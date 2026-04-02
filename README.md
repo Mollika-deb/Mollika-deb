@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mollika Deb</h1>
+<h1 align="center">Hi 👋, This is Mollika Deb</h1>
 <h3 align="center">Master’s student in Data Analytics at the University of Turku, with a background in Computer Science and Engineering and a strong interest in machine learning and data analytics. </h3>
 
 
