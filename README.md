@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mollika Deb</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
+<h3 align="center">Master’s student in Data Analytics at the University of Turku, with a background in Computer Science and Engineering and a strong interest in machine learning and health data analytics. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mollika-deb&label=Profile%20views&color=0e75b6&style=flat" alt="mollika-deb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mollika-deb" alt="mollika-deb" /></a> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 Passionate about **data analysis, machine learning, and real-world problem solving**  
 
 - 👨‍💻 All of my projects are available at [https://fanciful-semolina-77356e.netlify.app/#portfolio](https://fanciful-semolina-77356e.netlify.app/#portfolio)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis**  
 
 - 📫 How to reach me **Mollika1551@gmail.com**
 
