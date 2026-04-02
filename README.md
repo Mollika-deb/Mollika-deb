@@ -5,8 +5,6 @@
 
 - 🌱 Passionate about **data analysis, machine learning, and real-world problem solving**  
 
-- 👨‍💻 All of my projects are available at [https://fanciful-semolina-77356e.netlify.app/#portfolio](https://fanciful-semolina-77356e.netlify.app/#portfolio)
-
 - 💬 Ask me about **Python, Machine Learning, Data Analysis**  
 
 - 📫 How to reach me **Mollika1551@gmail.com**
