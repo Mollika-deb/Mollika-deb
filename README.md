@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mollika Deb</h1>
 <h3 align="center">Master’s student in Data Analytics at the University of Turku, with a background in Computer Science and Engineering and a strong interest in machine learning and data analytics. </h3>
 
-<p align="left"> <img src="" alt="mollika-deb" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mollika-deb" alt="mollika-deb" /></a> </p>
 
 - 🌱 Passionate about **data analysis, machine learning, and real-world problem solving**  
 
